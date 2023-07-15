@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.ai_like_btn{
+    text-decoration: none;
+    font-size: 18px;
+    background-color: #fff;
+    padding: 10px;
+    color: #ffffff;
+    border: 2px solid brown;
+    font-weight: 800;
+}
